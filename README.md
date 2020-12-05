@@ -22,11 +22,17 @@ Example
 
 Input:
 1
+
 4
+
 gdansk
+
 2
+
 2 1
+
 3 3
+
 bydgoszcz
 3
 1 1
