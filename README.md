@@ -21,16 +21,13 @@ cost [the minimum transportation cost from city NAME1 to city NAME2 (one per lin
 Example
 
 Input:
-1
 
+1
 4
 
 gdansk
-
 2
-
 2 1
-
 3 3
 
 bydgoszcz
@@ -38,15 +35,19 @@ bydgoszcz
 1 1
 3 1
 4 4
+
 torun
 3
 1 3
 2 1
 4 1
+
 warszawa
 2
 2 4
 3 1
+
 2
+
 gdansk warszawa
 bydgoszcz warszawa
